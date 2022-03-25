@@ -1,7 +1,0 @@
-// Jest Snapshot v1, https://goo.gl/fbAQLP
-
-exports[`<AButton /> expect to match snapshot 1`] = `
-<div>
-  Hello World Button!
-</div>
-`;
