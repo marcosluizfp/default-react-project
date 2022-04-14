@@ -1,5 +1,5 @@
 import React from 'react';
-import Container from '@mui/material/Container';
+import { Container } from '@mui/material';
 import { createTheme, ThemeProvider } from '@mui/material/styles';
 import ErrorBoundary from './ui/error/ErrorBoundary';
 
